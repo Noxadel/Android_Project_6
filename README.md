@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/and102/_x8LCCq3.gif
+https://submissions.us-east-1.linodeobjects.com/and102/ZJiLCOGX.gif
 
 
 <!-- Replace this with whatever GIF tool you used! -->
